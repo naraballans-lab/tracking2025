@@ -1,0 +1,11 @@
+# Visión por computador
+opencv-python>=4.10.0
+
+# Computación numérica
+numpy>=1.26.0
+
+# Filtrado de Kalman
+filterpy>=1.4.5
+
+# Procesamiento científico
+scipy>=1.13.0
