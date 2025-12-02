@@ -3,7 +3,7 @@ En este repositorio se muestran los códigos utilizados durante el desarrollo de
 
 # Análisis de Rotación de Ratones
 
-Sistema automático para detectar y contar rotaciones completas (360°) en ratones, diseñado para estudios comportamentales y modelos de Parkinson.
+Sistema automático para detectar y contar rotaciones en ratones, diseñado para estudios comportamentales y modelos de Parkinson.
 
 ## Características
 
